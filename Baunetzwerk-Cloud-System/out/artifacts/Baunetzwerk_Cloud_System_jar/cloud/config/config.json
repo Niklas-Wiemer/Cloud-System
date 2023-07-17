@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "username": "root",
+  "password": "",
+  "port": 3306,
+  "database": "cloud_system_"
+}
